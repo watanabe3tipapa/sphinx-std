@@ -10,6 +10,10 @@ Welcome to sphinx-std's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   ./chap1
+   ./chap2
+   ./chap3
+
 
 
 Indices and tables
